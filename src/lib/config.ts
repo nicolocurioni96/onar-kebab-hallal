@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Onar Kebab Hallal",
+  category: "restaurant",
   tagline: "Dove ogni piatto racconta una storia. A Brescia dal 2022.",
   city: "Brescia",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via Solferino, 1, 25122 Brescia BS",
   phone: "+39 327 453 4111",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20Solferino%2C%201%2C%2025122%20Brescia%20BS",
